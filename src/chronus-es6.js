@@ -1,6 +1,6 @@
 /**
  *
- * @authors     gooofly (http://gooofly.com, wangfei.f2e@gmail.com)
+ * @authors     gooofly (http://yuchuanxi.com, wangfei.f2e@gmail.com)
  * @date        2016-03-10 17:27:56
  * @title       title
  * @description description

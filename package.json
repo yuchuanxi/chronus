@@ -1,12 +1,9 @@
 {
-  "name": "F-chronus",
-  "version": "1.0.0",
+  "name": "chronus",
+  "version": "1.0.1",
   "description": "date format/parse util for javascript based PHP date",
   "main": "src/chronus.js",
   "scripts": {
-    "start": "NODE_ENV=prduction node app.js",
-    "dev": "DEBUG=* node app.js",
-    "build": "gulp build",
     "test": "mocha test/chronus-test.js",
     "testEs6": "mocha test/chronus-es6-test.js"
   },
@@ -22,44 +19,11 @@
     "type": "git",
     "url": "git@github.com:yuchuanxi/F-chronus.git"
   },
-  "homepage": "",
-  "dependencies": {
-    "co-views": "^2.1.0",
-    "debug": "^2.2.0",
-    "jade": "^1.11.0",
-    "koa": "^1.1.2",
-    "koa-favicon": "^1.2.0",
-    "koa-logger": "^1.3.0",
-    "koa-router": "^5.3.0",
-    "koa-static": "^2.0.0",
-    "koa-static-cache": "^3.1.3",
-    "nconf": "^0.8.2",
-    "pinkyswear": "^2.2.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "*",
     "mocha": "*",
-    "colors": "^1.1.2",
-    "css-loader": "^0.23.0",
     "eslint": "^1.10.3",
-    "eslint-loader": "^1.1.1",
-    "extract-text-webpack-plugin": "^0.9.1",
-    "file-loader": "^0.8.5",
-    "gulp": "^3.9.0",
-    "gulp-htmlmin": "^1.3.0",
-    "gulp-inject": "^3.0.0",
-    "gulp-nodemon": "^2.0.4",
-    "gulp-util": "^3.0.7",
-    "html-webpack-plugin": "^2.6.1",
-    "image-webpack-loader": "^1.6.2",
-    "jade-loader": "^0.8.0",
-    "koa-webpack-dev-middleware": "^1.1.0",
-    "koa-webpack-hot-middleware": "^1.0.3",
-    "less": "^2.5.3",
-    "less-loader": "^2.2.2",
-    "style-loader": "^0.13.0",
-    "url-loader": "^0.5.7",
-    "webpack": "^1.12.9",
-    "webpack-hot-middleware": "^2.10.0"
+    "eslint-loader": "^1.1.1"
   }
 }

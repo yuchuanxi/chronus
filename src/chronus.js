@@ -1,6 +1,6 @@
 /**
  *
- * @authors gooofly (wangfei@51xianqu.net, http://www.gooofly.com)
+ * @authors gooofly (wangfei@51xianqu.net, http://www.yuchuanxi.com)
  * @date    2015-10-23 13:47:30
  * @version $Id$
  *
