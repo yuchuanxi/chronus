@@ -1,6 +1,9 @@
 # READE ME
 
-## 如何开发
+## Install
 
 1. npm install
-2. npm run dev
+
+## Test
+
+1. npm run test
