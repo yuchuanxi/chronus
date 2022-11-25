@@ -23,7 +23,7 @@
   "devDependencies": {
     "chai": "*",
     "mocha": "*",
-    "eslint": "^4.18.2",
+    "eslint": "^8.28.0",
     "eslint-loader": "^1.1.1"
   }
 }
