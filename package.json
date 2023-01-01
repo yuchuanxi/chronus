@@ -24,6 +24,6 @@
     "chai": "*",
     "mocha": "*",
     "eslint": "^4.18.2",
-    "eslint-loader": "^1.1.1"
+    "eslint-loader": "^4.0.2"
   }
 }
